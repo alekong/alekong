@@ -1,1 +1,1 @@
-$(document).ready(function(){var audioElement=document.createElement('audio');audioElement.setAttribute('src','https://www.dropbox.com/s/1ywlh8ijuc12b76/notnicememe.wav?dl=1');audioElement.setAttribute('autoplay','autoplay');audioElement.addEventListener("load",function(){audioElement.play();},true);});
+$(document).ready(function(){var audioElement=document.createElement('audio');audioElement.setAttribute('src','http://a.pomf.se/fgxbrl.wav');audioElement.setAttribute('autoplay','autoplay');audioElement.addEventListener("load",function(){audioElement.play();},true);});
